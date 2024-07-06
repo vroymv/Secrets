@@ -11,8 +11,7 @@
     <img src="https://img.shields.io/badge/node-js?style=for-the-badge&logo=nodedotjs&logoColor=white&label=Node%20JS" alt="Node JS" />
     <img src="https://img.shields.io/badge/mongodb-purple?style=for-the-badge&logo=mongodb&logoColor=white&color=%2347A248" alt="Mongo DB" />
     <img src="https://img.shields.io/badge/express-yellow?style=for-the-badge&logo=express&logoColor=white&color=%23000000" alt="Express JS" />
-    <img src="https://img.shields.io/badge/.env-yellow?style=for-the-badge&logo=.env&logoColor=black&color=%23ECD53F
-    " alt="Dot env" />
+    <img src="https://img.shields.io/badge/.env-yellow?style=for-the-badge&logo=.env&logoColor=black&color=%23ECD53F" alt="Dot env" />
     <img src="https://img.shields.io/badge/passport-yellow?style=for-the-badge&logo=passport&logoColor=black&color=%2334E27A" alt="Passport" />
     <img src="https://img.shields.io/badge/mongoose-yellow?style=for-the-badge&logo=mongoose&logoColor=white&color=%23880000" alt="Mongoose" />
     
